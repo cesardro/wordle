@@ -1,0 +1,35 @@
+.root{
+    -fx-background-color: #303841;
+}
+
+Label{
+    -fx-background-color: #EEEEEE;
+    -fx-border-color: #EEEEEE;
+    -fx-border-width: 2;
+    -fx-border-style: solid;
+    -fx-font-size: 25px;
+    -fx-text-fill: #384259;
+    -fx-font-weight: 700;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.BordeOscuro{
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+}
+
+.Verde{
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+.Amarillo{
+    -fx-background-color: #F8B400;
+    -fx-text-fill: white;
+}
+
+.Gris{
+    -fx-background-color: #8D8DAA;
+    -fx-text-fill: white;
+}
